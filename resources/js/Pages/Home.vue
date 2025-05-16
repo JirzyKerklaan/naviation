@@ -13,7 +13,7 @@ defineProps({
 
 <template>
   <div class="flex flex-col px-4 bg-background max-w-screen">
-    <PageHeader title="FLIGHTS" />
+    <PageHeader title="Flights" />
 
     <div class="flex flex-col gap-4">
       <Card
