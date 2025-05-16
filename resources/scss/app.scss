@@ -1,4 +1,2 @@
-h1 {
-    font-size: 2rem;
-    color: blue;
-}
+@forward "base/_base";
+@forward "components/_components";
